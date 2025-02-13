@@ -17,7 +17,7 @@ import latestSelenium4Design.Selenium4FrameworkDesign.PageObjects.LandingPage;
 public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
-
+// added this comment to check github working or not
 		String userEmail = "forwardtolalit@gmail.com";
 		String userPwd = "##Learning@88";
 		String itemToAdd = "Banarsi Saree";
