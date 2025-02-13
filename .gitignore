@@ -1,0 +1,19 @@
+# Ignore IDE files
+.classpath
+.project
+.settings/
+
+# Ignore compiled files
+target/
+bin/
+out/
+*.class
+
+# Ignore Maven & TestNG-generated files
+.mvn/
+Reports/
+test-output/
+
+# Ignore logs
+*.log
+
